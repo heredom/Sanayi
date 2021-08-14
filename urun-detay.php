@@ -190,12 +190,12 @@ $teklifsor->execute(array(
 										<input type="hidden" name="productId" value="<?php echo $uruncek['urun_id']
 										
 										?>">
-							<button type="submit" name="yorumkaydet" class="btn btn-default btn-red btn-sm">Yorumu Gönder</button>
+							<button type="submit" name="teklifkaydet" class="btn btn-default btn-red btn-sm">Teklifi Gönder</button>
 						</form>
 
 						<?php } else {?>
 
-						Yorum yazabilmek için <a style="color:red" href="register">kayıt</a> olmalı yada üyemizseniz giriş yapmalısınız...
+						Teklif yapabilmek için <a style="color:red" href="register">kayıt</a> olmalı yada üyemizseniz giriş yapmalısınız...
 
 						<?php } ?>
 
