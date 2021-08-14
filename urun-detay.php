@@ -226,7 +226,7 @@ $teklifsor->execute(array(
 					'kategori_id' => $kategori_id
 					));
 
-				while($urunaltcek=$urunaltsor->fetch(PDO::FETCH_ASSOC)) {
+				while($urunaltcek=$urunaltsor->fetch(PDO::FETCH_ASSOC)){
 					
 					?>
 
