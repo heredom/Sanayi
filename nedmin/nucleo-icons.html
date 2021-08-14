@@ -1,6 +1,0 @@
-$tkullanicisor=$db->prepare("SELECT * FROM tkullanici where tkullanici_id=:id");
-                            $tkullanicisor->execute(array(
-                              'id' => $ttkullanici_id
-                              ));
-                            
-                            $tkullanicicek=$tkullanicisor->fetch(PDO::FETCH_ASSOC);
