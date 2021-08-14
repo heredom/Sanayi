@@ -134,6 +134,7 @@ $teklifsor->execute(array(
 					<div class="tab-pane fade active in" id="desc">
 						<p>
 							<?php echo $uruncek['productDescription'] ?>
+							
 						</p>
 					</div>
 					<div class="tab-pane fade" id="rev">
@@ -158,8 +159,9 @@ $teklifsor->execute(array(
                           
 						<!-- Yorumları Dökeceğiz -->
 						<p class="dash">
-							<span><?php echo $tkullanicicek['kullanici_adsoyad']   ?></span> <?php echo $teklifcek['offerCreateTime']   ?><br><br>
+							<span><?php echo $tkullanicicek['kullanici_adsoyad']   ?><br></span> <?php echo $teklifcek['offerCreateTime']   ?><br><br>
 							<?php echo $teklifcek['offerHead']   ?>
+							<?php echo $teklifcek['offerValue']   ?>
 						</p>
 
                         <?php } ?>
@@ -190,12 +192,12 @@ $teklifsor->execute(array(
 										<input type="hidden" name="productId" value="<?php echo $uruncek['urun_id']
 										
 										?>">
-							<button type="submit" name="yorumkaydet" class="btn btn-default btn-red btn-sm">Yorumu Gönder</button>
+							<button type="submit" name="teklifkaydet" class="btn btn-default btn-red btn-sm">Teklifi Gönder</button>
 						</form>
 
 						<?php } else {?>
 
-						Yorum yazabilmek için <a style="color:red" href="register">kayıt</a> olmalı yada üyemizseniz giriş yapmalısınız...
+						Teklif yapabilmek için <a style="color:red" href="register">kayıt</a> olmalı yada üyemizseniz giriş yapmalısınız...
 
 						<?php } ?>
 

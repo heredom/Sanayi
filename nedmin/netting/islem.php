@@ -468,7 +468,7 @@ if (@$_GET['urunsil']=="ok") {
 	}
 
 }
-if (isset($_POST['yorumkaydet'])) {
+if (isset($_POST['teklifkaydet'])) {
 
 
 	$gelen_url=$_POST['gelen_url'];
