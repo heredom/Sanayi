@@ -58,7 +58,7 @@ Profesyonel tedarikçi-müşteri ilişkileri
 					
 					</div>
 					<div class="slide-type-1">
-						<img src="images\slide-3.jpg" alt="" class="img-responsive">
+						<img src="images\1.jpg" alt="" class="img-responsive">
 					</div>
 				</div>
 				<div class="item">
@@ -129,7 +129,7 @@ Profesyonel tedarikçi-müşteri ilişkileri
 			</div>
 			<div class="item">
 				<div class="slide-type-1-sync">
-					<h3>Nike Airmax</h3>
+					<h3>Hızlı Güvenli</h3>
 					<p>Description here here here</p>
 				</div>
 			</div>
@@ -149,7 +149,7 @@ Profesyonel tedarikçi-müşteri ilişkileri
 					<div class="productwrap">
 						<div class="pr-img">
 							<div class="hot"></div>
-							<a href="product.htm"><img src="images\sample-1.jpg" alt="" class="img-responsive"></a>
+							<a href="product.htm"><img src="dimg\urun\22308255922682125136sanay2.jpg" alt="" class="img-responsive"></a>
 							<div class="pricetag blue"><div class="inner"><span>$199</span></div></div>
 						</div>
 							<span class="smalltitle"><a href="product.htm">Nikon Camera</a></span>
@@ -180,17 +180,17 @@ Profesyonel tedarikçi-müşteri ilişkileri
 				<div class="item">
 					<div class="productwrap">
 						<div class="pr-img">
-							<a href="product.htm"><img src="images\sample-1.jpg" alt="" class="img-responsive"></a>
+							<a href="product.htm"><img src="dimg\urun\21518306972319725520sanay1.jpg" alt="" class="img-responsive"></a>
 							<div class="pricetag blue"><div class="inner"><span>$199</span></div></div>
 						</div>
-							<span class="smalltitle"><a href="product.htm">Nikon Camera</a></span>
+							<span class="smalltitle"><a href="product.htm"></a></span>
 							<span class="smalldesc">Item no.: 1000</span>
 					</div>
 				</div>
 				<div class="item">
 					<div class="productwrap">
 						<div class="pr-img">
-							<a href="product.htm"><img src="images\sample-2.jpg" alt="" class="img-responsive"></a>
+							<a href="product.htm"><img src="dimg\urun\22308255922682125136sanay2.jpg" alt="" class="img-responsive"></a>
 							<div class="pricetag blue"><div class="inner"><span>$199</span></div></div>
 						</div>
 							<span class="smalltitle"><a href="product.htm">Black Shoes</a></span>
