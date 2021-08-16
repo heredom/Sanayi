@@ -157,7 +157,7 @@ $teklifsor->execute(array(
                                
                                ?>
                           
-						<!-- Yorumları Dökeceğiz -->
+						
 						<p class="dash">
 							<span><?php echo $tkullanicicek['kullanici_adsoyad']   ?><br></span> <?php echo $teklifcek['offerCreateTime']   ?><br><br>
 							<?php echo $teklifcek['offerHead']   ?>
@@ -166,7 +166,7 @@ $teklifsor->execute(array(
 
                         <?php } ?>
 
-						<!-- Yorumları Dökeceğiz -->
+						
 
 
 						<h4>Teklif Açıklaması</h4>

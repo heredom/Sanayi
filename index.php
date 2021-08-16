@@ -152,7 +152,7 @@ Profesyonel tedarikçi-müşteri ilişkileri
 							<a href="product.htm"><img src="dimg\urun\22308255922682125136sanay2.jpg" alt="" class="img-responsive"></a>
 							<div class="pricetag blue"><div class="inner"><span>$199</span></div></div>
 						</div>
-							<span class="smalltitle"><a href="product.htm">Nikon Camera</a></span>
+							<span class="smalltitle"><a href="product.htm"></a></span>
 							<span class="smalldesc">Item no.: 1000</span>
 					</div>
 				</div>
@@ -193,7 +193,7 @@ Profesyonel tedarikçi-müşteri ilişkileri
 							<a href="product.htm"><img src="dimg\urun\22308255922682125136sanay2.jpg" alt="" class="img-responsive"></a>
 							<div class="pricetag blue"><div class="inner"><span>$199</span></div></div>
 						</div>
-							<span class="smalltitle"><a href="product.htm">Black Shoes</a></span>
+							<span class="smalltitle"><a href="product.htm"></a></span>
 							<span class="smalldesc">Item no.: 1000</span>
 					</div>
 				</div>
